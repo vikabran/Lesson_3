@@ -1,0 +1,61 @@
+.main-title {
+	color: royalblue;
+}
+div.list {
+	color: thistle;
+}
+.text {
+	color: tan;
+}
+.main-things .orange {
+	color: orange;
+}
+.second-title {
+	color: teal;
+}
+.second-list,
+.second-text {
+	color: yellowgreen;
+}
+.third-title {
+	color: paleturquoise;
+}
+.blue {
+	color: blue;
+}
+.green {
+	color: green;
+}
+.purple {
+	color: purple;
+}
+.discipline p {
+	color: olive;
+}
+.third-list {
+	color: palevioletred;
+}
+.end.title {
+	color: thistle;
+}
+span {
+	color: red;
+}
+a {
+	color: turquoise;
+}
+.brown * {
+	color: brown;
+}
+.olivedrab > p {
+	color: olivedrab;
+}
+.orchid ~ p {
+	color: orchid;
+}
+.palegreen + p {
+	color: palegreen;
+}
+#top{
+	color: tan;
+}
